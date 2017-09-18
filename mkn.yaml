@@ -1,0 +1,12 @@
+
+
+name: gperf
+
+parent: lib
+
+profile:
+  - name: inc
+    inc: inst/include
+
+  - name: lib
+    path: ./inst/lib
